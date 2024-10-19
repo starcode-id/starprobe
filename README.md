@@ -25,7 +25,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/starcode-id/starprobe
+git clone https://github.com/starcode-id/starprobe.git
 cd starprobe
 pip install -r requirements.txt
 sudo python3 main.py
