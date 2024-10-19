@@ -1,0 +1,4 @@
+scapy
+manuf
+requests
+psutil
